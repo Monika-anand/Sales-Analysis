@@ -9,7 +9,7 @@ The objective is to help organizations understand which regions and products gen
 By examining factors such as region, product category, and total revenue, the goal is to provide insights that help businesses optimize their sales strategies, improve product distribution, and make better data-driven decisions.
 
 ## Dataset Used
-- <a href="https://github.com/Monika-anand/Capstone-Project/blob/main/Capstone%20Project.xlsx">Dataset</a>
+- <a href="https://github.com/Monika-anand/Sales-Analysis/blob/main/Sales%20Performance%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - What is the total sales revenue generated across all regions?
@@ -35,8 +35,11 @@ By examining factors such as region, product category, and total revenue, the go
 ## Dashboard Interaction
 - <a href="https://github.com/Monika-anand/Capstone-Project/blob/main/Capstone%20Project.xlsx">View Dashboard</a>
 
-## Dashboard
-<img width="1500" height="800" alt="Sales Dashboard Screenshot" src="YOUR_IMAGE_LINK_HERE" />
+## Dashboard Image
+- <a href="https://github.com/Monika-anand/Sales-Analysis/blob/main/Screenshot%202026-03-10%20152218.png">Image Dashboard</a>
+
+## Presentation
+- <a href="https://github.com/Monika-anand/Sales-Analysis/blob/main/Capstone%20Project.pptx">Presentation of project</a>
 
 ## Project Insights
 - Total sales performance varies across different regions.
